@@ -1,2 +1,0 @@
-This is the first verson of the software.
-Succesfully pushed and pulled.
